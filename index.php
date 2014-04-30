@@ -1,7 +1,8 @@
 <?php
 
-require 'core/autoloader.php';
-$app = require_once 'core/Core.php';
+require 'vendor/autoload.php';
+
+$app = Zhmug\Core();
 
 /**
  * Start application
