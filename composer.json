@@ -7,7 +7,6 @@
         "novitskiy-aleksei/zhmuh-framework-kernel": "*"
     },
     "require-dev": {
-        "phpunit/phpunit": "4.0.*"
     },
     "autoload": {
         "classmap": [

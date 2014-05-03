@@ -2,7 +2,7 @@
 
 require 'vendor/autoload.php';
 
-$app = Zhmug\Core();
+$app = new Zhmuh\Core(__DIR__);
 
 /**
  * Start application
